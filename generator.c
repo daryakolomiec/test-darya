@@ -10,7 +10,7 @@ std::string generateCode() {
      */
     
     // Generate a random code
-    std::string code = "ABC123";
+    std::string code = "ABC1234";
     
     return code;
 }
